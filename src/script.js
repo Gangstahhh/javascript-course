@@ -1,0 +1,6 @@
+// OPTIONAL: Menggunakan TITIK KOMA(;)
+
+// KOMENTAR UNTUK SATU BARU
+document.writeln("Hallo Dunia");
+
+/*KOMENTAR INI DI GUNAKAN UNTUK KOMENTAR YANG PANJANG*/
